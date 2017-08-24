@@ -1,0 +1,25 @@
+﻿  TicTacToe.cpp
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(121): warning C4715: 'checkForWinner': not all control paths return a value
+c:\users\jason\desktop\projects\2017 projects\tictactoe\tictactoe\tictactoe.cpp(187): warning C4715: 'bruteForce': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\Jason\Desktop\Projects\2017 Projects\TicTacToe\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> C:\Users\Jason\Desktop\Projects\2017 Projects\TicTacToe\Debug\TicTacToe.pdb (Partial PDB)
