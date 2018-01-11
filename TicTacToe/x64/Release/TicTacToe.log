@@ -1,12 +1,9 @@
-﻿  stdafx.cpp
-  TicTacToe.cpp
+﻿  TicTacToe.cpp
 TicTacToe.cpp(290): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating code
-c:\users\jason\desktop\projects\github\tictactoe\tictactoe\tictactoe.cpp(221): warning C4715: 'checkForWinner': not all control paths return a value
-c:\users\jason\desktop\projects\github\tictactoe\tictactoe\tictactoe.cpp(286): warning C4715: 'bruteForce': not all control paths return a value
-  265 of 271 functions (97.8%) were compiled, the rest were copied from previous compilation.
+  0 of 271 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    15 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   TicTacToe.vcxproj -> C:\Users\Jason\Desktop\Projects\Github\TicTacToe\x64\Release\TicTacToe.exe
   TicTacToe.vcxproj -> C:\Users\Jason\Desktop\Projects\Github\TicTacToe\x64\Release\TicTacToe.pdb (Full PDB)

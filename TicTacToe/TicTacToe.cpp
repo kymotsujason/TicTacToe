@@ -218,6 +218,7 @@ int checkForWinner(tictactoe game) {
 			return diagonal[0];
 		}
 	}
+	return -1;
 }
 
 int bruteForce(tictactoe game, int player1, int player2);
